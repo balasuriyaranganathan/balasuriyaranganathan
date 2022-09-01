@@ -34,6 +34,13 @@ Student at Amrita Vishwa Vidyapeetham
 ### Last 7 days
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   49 mins         ████████████████████▓░░░░   82.98 %
+Python       10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 
