@@ -27,6 +27,16 @@ Student at Amrita Vishwa Vidyapeetham
 
 <p align="left"> <a href="https://www.github.com/balasuriyaranganathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_bala_suriya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/balasuriyaranganathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/balasuriya-r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/balasuriyaranganathan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Overall statistics
+
+[![wakatime](https://wakatime.com/badge/user/c9a0d88d-e244-4d24-a833-fdcebae3f9b1.svg)](https://wakatime.com/@c9a0d88d-e244-4d24-a833-fdcebae3f9b1)
+
+### Last 7 days
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
