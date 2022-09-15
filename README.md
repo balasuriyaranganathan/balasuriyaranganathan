@@ -36,7 +36,8 @@ Student at Amrita Vishwa Vidyapeetham
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   13 mins         █████████████████████▓░░░   87.21 %
+Java     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
 ```
 
 <!--END_SECTION:waka-->
