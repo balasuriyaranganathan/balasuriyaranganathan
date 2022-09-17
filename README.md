@@ -54,3 +54,4 @@ Java     2 mins          ███▒░░░░░░░░░░░░░░�
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/balasuriyaranganathan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
