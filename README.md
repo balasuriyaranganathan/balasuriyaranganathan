@@ -42,7 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs           █████████████████████████   100.00 %
+Python       4 hrs           ███████████████████▓░░░░░   78.84 %
+HTML         1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
