@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/balasuriyaranganathan](https://github.com/balasuriyaranganathan)
 
-- 📝 visit my website [https://balasuriyaranganathan.github.io/social/](https://balasuriyaranganathan.github.io/social/)
+- 📝 visit my website [balasuriya.tk](balasuriya.tk)
 
 - 💬 Ask me about **Python, Sql**
 
