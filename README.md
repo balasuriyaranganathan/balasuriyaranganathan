@@ -11,9 +11,8 @@
 
 - 🤝 I’m looking for help with **kotlin and deep learning**
 
-- 👨‍💻 All of my projects are available at [balasuriya.tk](balasuriya.tk)
+- 👨‍💻 All of my projects are available at [https://balasuriyaranganathan.github.io/portfolio/](https://balasuriyaranganathan.github.io/portfolio/)
 
-- 📝 I regularly write articles on [balasuriya.tk](balasuriya.tk)
 
 - 💬 Ask me about **Python, mysql, scikit learn**
 
